@@ -1,0 +1,4 @@
+com\studentapp\junit\CreateRecordTest.class
+com\studentapp\testbase\TestBase.class
+com\studentapp\junit\FirstSerenityTest.class
+com\studentapp\cucumber\serenity\SerenitySteps.class

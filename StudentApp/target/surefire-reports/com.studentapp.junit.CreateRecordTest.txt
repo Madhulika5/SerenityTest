@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.studentapp.junit.CreateRecordTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 14.393 sec <<< FAILURE! - in com.studentapp.junit.CreateRecordTest
+getCapitalDetails(com.studentapp.junit.CreateRecordTest)  Time elapsed: 1.656 sec  <<< ERROR!
+java.lang.ClassCastException: class java.util.ArrayList cannot be cast to class java.lang.String (java.util.ArrayList and java.lang.String are in module java.base of loader 'bootstrap')
+	at com.studentapp.junit.CreateRecordTest.getCapitalDetails(CreateRecordTest.java:81)
+
